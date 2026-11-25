@@ -5,6 +5,7 @@ Submitted for the AICTE Oasis Infobyte Student Internship Program (SIP), Web Dev
 - **Intern:** Destine Magumo
 - **Task:** Task 3 - Temperature Converter
 - **Live demo:** https://temperatureconverter-black.vercel.app/
+Demo video and LinkedIn post: https://lnkd.in/p/dCz2kZbR
 
 ## Objective
 
